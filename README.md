@@ -35,4 +35,4 @@ this is new develpmeny
 
 ## Copyright
 
-Git.Training
+training statsh
