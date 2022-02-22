@@ -15,6 +15,10 @@ Everything is all right
 
 this is readmer dile
 
+this is readme file
+
+ok it's ok
+
 ## Deployeement
 this is new deployeement file 
 this is new develpmeny
